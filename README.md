@@ -2,6 +2,8 @@
  Treinando e estudando a linguagem JavaScript
 
  -----------------------------------------------------
- comentário em JavaScript
+ _comentário em JavaScript:_
+ 
  // -- para comentar em uma unica linha
+ 
  /* */ -- para comentar em mais de uma unica linha
