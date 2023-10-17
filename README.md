@@ -18,3 +18,18 @@
 
  exit -- para sair do terminal do Vscode ou cmd do Windows
  
+--------------------------------------------------------------------------------------
+_Operadores de comparação_
+
+=== para comparar estritamente a igualdade entre dois valores;
+
+!== para comparar estritamente a diferença entre dois valores;
+
+(> para comparar se um valor é maior do que o outro;
+
+< para comparar se um valor é menor do que o outro;
+
+(>= para comparar se um valor é maior ou igual do que o outro;
+
+<= para comparar se um valor é menor ou igual do que o outro.
+
