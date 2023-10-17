@@ -33,3 +33,22 @@ _Operadores de comparação_
 
 <= para comparar se um valor é menor ou igual do que o outro.
 
+-------------------------------------------------------------------------------------------
+_Operadores lógicos_
+
+&& -- se duas condições são verdadeiras
+
+|| -- se uma ou outra condição for verdadeira. Uma das condições*
+
+
+
+
+
+
+
+
+
+
+
+
+
