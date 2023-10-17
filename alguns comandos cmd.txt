@@ -1,0 +1,12 @@
+cd -- acessar ou sair de diretórios
+dir -- conferir o conteúdo do diretório
+cls -- limpar o terminal do Prompt de Comando
+exit -- para fechar o terminal do Prompt de Comando
+help -- para obter alguns comandos de suporte
+help comando -- para obter detalhes e combinações com algum comando em especifico
+date -- exibi a data atual do sistema, e alterar-la( caso esteja como administrador )
+time -- exibi a hora atual do sistema, ||    ||       ||    ||    ||       ||
+hostname -- exibi o nome atual da máquina
+ver -- exibi a versão do Windows instalada atualmente no PC
+color XX -- muda a cor do fundo do terminal, e a cor da letra do terminal. O primeiro 'X' mudará a cor de fundo, e o segundo 'X' mudará a cor da letra
+shutdown -- desligar o pc. Tem várias combinações, sendo possivel adiar um desligamento, reiniciar o computador entre outros.
